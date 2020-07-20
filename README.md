@@ -8,8 +8,8 @@ K-Means Clustering algorithm implementation to extract dominant palette colors i
 <p align="center"> 
   <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/picture1.jpg" width="190" height="250" /> 
   <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/new_picture3.png" width="190" height="250"/>
-  <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/new_picture2.png" width="190" height="250" /> 
   <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/picture2.jpg" width="190" height="250" /> 
+  <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/new_picture2.png" width="190" height="250" /> 
 </p>
 
 <p align="center">
