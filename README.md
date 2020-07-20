@@ -5,9 +5,17 @@ K-Means Clustering algorithm implementation to extract dominant palette colors i
 
 *Image dominant color extraction and representation of new images using pre-dominance colors*
 
-<img align="left" src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/picture1.jpg" width="190" height="250" /> <img  align="left" src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/new_picture3.png" width="190" height="250"/><img  align="right" src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/new_picture2.png" width="190" height="250" /> <img align="right" src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/picture2.jpg" width="190" height="250" />
+<p align="center"> 
+  <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/picture1.jpg" width="190" height="250" /> 
+  <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/new_picture3.png" width="190" height="250"/>
+  <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/new_picture2.png" width="190" height="250" /> 
+  <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/picture2.jpg" width="190" height="250" /> 
+</p>
 
-<img align="left" src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/color_pallete1.png" width="400" height="60" /> <img align="right" src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/color_pallete2.png" width="400" height="60" />
+<p align="center">
+  <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/color_pallete1.png" width="400" height="60" /> 
+  <img src="https://github.com/nehamehta2110/Dominant-Color-extraction-Kmeans/blob/master/color_pallete2.png" width="400" height="60" />
+</p>
 
 
 
